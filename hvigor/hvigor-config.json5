@@ -1,0 +1,17 @@
+{
+  "modelVersion": "5.0.0",
+  "dependencies": {},
+  "execution": {
+    // "analyze": "normal",                         /* 配置构建分析模式 */
+    // "daemon": true                               /* 是否启用守护进程 */
+  },
+  "logging": {
+    // "level": "info"                              /* 日志级别 */
+  },
+  "debugging": {
+    // "stacktrace": false                          /* 打印异常堆栈 */
+  },
+  "nodeOptions": {
+    // "maxOldSpaceSize": 8192                      /* Node 内存上限 */
+  }
+}

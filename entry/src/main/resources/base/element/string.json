@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "鸿蒙TV主模块"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "鸿蒙TV视频播放演示"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "TPTV"
+    },
+    {
+      "name": "internet_reason",
+      "value": "用于后续在线视频数据与播放地址的访问"
+    }
+  ]
+}

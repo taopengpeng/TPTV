@@ -1,0 +1,12 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "entry 模块：视频列表与播放",
+  "main": "",
+  "author": "licq",
+  "license": "MulanPSL-2.0",
+  "dependencies": {},
+  "devDependencies": {
+    "@ohos/hypium": "1.0.19"
+  }
+}
